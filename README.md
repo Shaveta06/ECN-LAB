@@ -25,6 +25,7 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="777" height="1280" alt="image" src="https://github.com/user-attachments/assets/901b039b-4c10-452a-b984-9f6c1e42f3fa" />
 
 
 
@@ -48,8 +49,13 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+<img width="750" height="1280" alt="image" src="https://github.com/user-attachments/assets/638c78b2-5646-4b9c-a71f-7e192b5019ec" />
+
+
 
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+<img width="815" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2ea0eb1-3ec7-447a-bd9a-8353b676883c" />
+
 
